@@ -3,7 +3,7 @@
 @section('title', 'DApp Header (HTML)')
 
 @section('content')
-<section class="min-h-screen w-full py-10 md:py-12 mx-auto max-w-[1400px] bg-slate-50/50">
+<section class="min-h-screen w-full py-10 md:py-12 mx-auto max-w-[1400px] ">
   <div class="grid grid-cols-1 gap-5 relative z-10 px-4">
 
     {{-- CARD 1: Packages History + Topup Form --}}
